@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new aspects of technology
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects as well as other software projects because I am one curious goose
-- 📫 How to reach me: Check out https://aligunes.me or you can just email me - agunes372@gmail.com :)
+- 📫 How to reach me: Check out aligunes.me or email me - agunes372@gmail.com :)
 
 <!---
 ali-gunes/ali-gunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
